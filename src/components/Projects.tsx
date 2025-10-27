@@ -1,8 +1,8 @@
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Github } from "lucide-react";
-import HealthRecImg from "../assets/healthrec.png";
-import DSCCImg from "../assets/dscc.png";
-import ZomatoImg from "../assets/zomato.png";
+import HealthRecImg from "../assets/HealthRec.png";
+import DSCCImg from "../assets/DSCC.png";
+import ZomatoImg from "../assets/Zomato.png";
 
 const Projects = () => {
   const projects = [
